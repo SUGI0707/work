@@ -1,0 +1,4 @@
+プログラムコマンドプロンプトから起動してください（以下参照）
+
+cd [プログラム配置先]\test\bin
+java FileIO.MainFile
